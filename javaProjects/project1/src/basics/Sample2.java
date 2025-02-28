@@ -10,6 +10,7 @@ public class Sample2 {
 		long c = 30;
 		
 		a =  (int)(b+c);
+		/sadfeasfasf
 		
 		System.out.println(a);
 		
