@@ -16,6 +16,7 @@ public class Sample2 {
 		a = Integer.parseInt("10");
 		
 		System.out.println(a*a);
+		// fkgtkjfhf
 	}
 
 }
